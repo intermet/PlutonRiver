@@ -1,0 +1,189 @@
+[INFO  - 2017-11-13T19:47:24.644Z] GhostDriver - Main - running on port 63023
+[INFO  - 2017-11-13T19:47:25.743Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-13T19:47:25.743Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.customHeaders:  - {}
+[INFO  - 2017-11-13T19:47:25.744Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-13T19:47:25.744Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 7940eb70-c8ab-11e7-88b4-d59b4a4afa31
+[ERROR - 2017-11-13T19:47:26.937Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - msg: ReferenceError: Can't find variable: js_callbackDefineScript
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:26.937Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - stack:
+  _f5 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:108)
+  _27 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:167)
+  _di (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1653)
+  _di (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1553)
+  _PC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1898)
+  _EC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1898)
+  _CC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1892)
+
+  phantomjs://platform/console++.js:263 in error
+[ERR[INFO  - 2017-11-13T19:49:50.535Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+_callbackDefineScript
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:26.942Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - st[INFO  - 2017-11-13T19:48:47.319Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-11-13T19:50:03.574Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+.js:1653)
+  _di (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1553)
+  _PC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1898)
+  _EC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1898)
+  _CC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1892)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:26.949Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - msg: ReferenceError: Can't find variable: js_callbackDefineScript
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:26.949Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - stack:
+  _f5 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:108)
+  _27 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:167)
+  _di (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1653)
+  _di (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1553)
+  _PC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1898)
+  _EC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1898)
+  _CC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1892)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:26.964Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - msg: ReferenceError: Can't find variable: js_callbackDefineScript
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:26.964Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - stack:
+  _f5 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:108)
+  _27 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:167)
+  _di (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1653)
+  _di (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1553)
+  _PC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1898)
+  _EC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1898)
+  _CC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1892)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:26.981Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - msg: ReferenceError: Can't find variable: js_callbackDefineScript
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:26.981Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - stack:
+  _f5 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:108)
+  _27 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:167)
+  _di (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1653)
+  _di (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1553)
+  _PC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1898)
+  _EC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1898)
+  _CC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1892)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:26.996Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - msg: ReferenceError: Can't find variable: js_callbackDefineScript
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:26.996Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - stack:
+  _f5 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:108)
+  _27 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:167)
+  _di (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1653)
+  _di (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1553)
+  _PC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1898)
+  _EC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1898)
+  _CC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1892)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:27.012Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - msg: ReferenceError: Can't find variable: js_callbackDefineScript
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:27.012Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - stack:
+  _f5 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:108)
+  _27 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:167)
+  _di (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1653)
+  _di (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1553)
+  _PC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1898)
+  _EC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1898)
+  _CC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1892)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:27.028Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - msg: ReferenceError: Can't find variable: js_callbackDefineScript
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:27.028Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - stack:
+  _f5 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:108)
+  _27 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:167)
+  _di (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1653)
+  _di (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1553)
+  _PC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1898)
+  _EC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1898)
+  _CC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1892)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:27.045Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - msg: ReferenceError: Can't find variable: js_callbackDefineScript
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:27.045Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - stack:
+  _f5 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:108)
+  _27 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:167)
+  _di (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1653)
+  _di (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1553)
+  _PC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1898)
+  _EC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1898)
+  _CC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1892)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:27.061Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - msg: ReferenceError: Can't find variable: js_callbackDefineScript
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:27.061Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - stack:
+  _f5 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:108)
+  _27 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:167)
+  _di (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1653)
+  _di (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1553)
+  _PC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1898)
+  _EC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1898)
+  _CC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1892)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:27.076Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - msg: ReferenceError: Can't find variable: js_callbackDefineScript
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:27.077Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - stack:
+  _f5 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:108)
+  _27 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:167)
+  _di (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1653)
+  _di (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1553)
+  _PC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1898)
+  _EC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1898)
+  _CC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1892)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:27.092Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - msg: ReferenceError: Can't find variable: js_callbackDefineScript
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:27.092Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - stack:
+  _f5 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:108)
+  _27 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:167)
+  _di (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1653)
+  _di (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1553)
+  _PC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1898)
+  _EC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1898)
+  _CC2 (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/MarsRover.js:1892)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:27.133Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - msg: Error: Unknown message
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:27.133Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - stack:
+  (anonymous function) (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/gamee.all.min.js:663)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:27.133Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - msg: Error: Unknown message
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:27.134Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - stack:
+  (anonymous function) (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/gamee.all.min.js:663)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:28.709Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - msg: Error: Unknown message
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:28.709Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - stack:
+  (anonymous function) (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/gamee.all.min.js:663)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:29.202Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - msg: Error: Unknown message
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T19:47:29.202Z] Session [7940eb70-c8ab-11e7-88b4-d59b4a4afa31] - page.onError - stack:
+  (anonymous function) (https://d29zfk7accxxr5.cloudfront.net/games/game-142/data/html5game/gamee.all.min.js:663)
+
+  phantomjs://platform/console++.js:263 in error
